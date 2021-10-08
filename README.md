@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">I'm Joash Mathew</p>
-<sub><sup>but I often go by the name <em>JustinOleski</em> online</sup></sub>
+<p align="center">I'm Joash Mathew<br><sub><sup>but I often go by the name <em>JustinOleski</em> online</sup></sub></p>
+
 <!--
 **JustinOleskii/JustinOleskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
