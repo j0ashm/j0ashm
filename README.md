@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm Joash Mathew<br><sub><sup>but I often go by the name <em>JustinOleski</em> online</sup></sub></p>
 
+I'm an avid tech enthusiast who loves playing with all things tech. I love experimenting with different technologies and frameworks to try and create "cool" things <em>(at times - not with a lot of success)</em>
+I'm a first year Computing student at Queen's University, Canada 🇨🇦, but I'm originally from India. 🇮🇳
+
 <!--
 **JustinOleskii/JustinOleskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
