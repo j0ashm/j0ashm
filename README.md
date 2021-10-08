@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I'm Joash Mathew</p>
 <sub><sup>but I often go by the name <em>JustinOleski</em> online</sup></sub>
