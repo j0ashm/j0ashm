@@ -1,20 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">I'm Joash Mathew<br><sub><sup>but I often go by the name <em>JustinOleski</em> online</sup></sub></p>
 
+I'm Joash Mathew <sub><sup>(but I often go by the name <em>JustinOleski</em> online)</sup></sub></p>
 I'm an avid tech enthusiast who loves playing with all things tech. I love experimenting with different technologies and frameworks to try and create "cool" things <em>(at times - not with a lot of success)</em>
-I'm a first year Computing student at Queen's University, Canada 🇨🇦, but I'm originally from India. 🇮🇳
+I am originally from India 🇮🇳 but as of 2021, I am a first year Computing student at Queen's University, Canada. 🇨🇦
 
-<!--
-**JustinOleskii/JustinOleskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My latest pursuit for knowledge is in full-stack web development. I have been spending my days learning to work with a MERN stack.
 
-Here are some ideas to get you started:
+To wrap up this introduction, here's some random facts about me:
+- 🎮 I love playing open-world video games.
+- 🔭 I'm currently working on my first React website/project - [imitatio](https://github.com/JustinOleskii/imitatio)
+- :octocat: I'm in the GitHub Campus Experts program as on **9th October 2021** 
+- 👨‍💻 I have been managing communities since I was 14. Currently, I manage 3 communities totalling 1.5M+ members for [V&K Industries](https://vk-industries.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Socials
+You can connect with me on any of the following sites -
+- 🕴️ [LinkedIn](https://linkedin.com/in/joashmathew)
+- 🐦 [Twitter](https://twitter.com/JustinOleskii)
+- 📧 hey@joashmathew.dev
