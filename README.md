@@ -16,4 +16,4 @@ To wrap up this introduction, here's some random facts about me:
 You can connect with me on any of the following sites -
 - 🕴️ [LinkedIn](https://linkedin.com/in/joashmathew)
 - 🐦 [Twitter](https://twitter.com/JustinOleskii)
-- 📧 hey@joashmathew.dev
+- 📧 hey@justinoleski.dev
