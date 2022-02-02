@@ -10,7 +10,7 @@ To wrap up this introduction, here's some random facts about me:
 - 🎮 I love playing open-world video games.
 - 🔭 I'm currently working on my first React website/project - [imitatio](https://github.com/JustinOleskii/imitatio)
 - :octocat: I'm in the GitHub Campus Experts program as on **9th October 2021** 
-- 👨‍💻 I have been managing communities since I was 14. Currently, I manage 3 communities totalling 1.5M+ members for [V&K Industries](https://vk-industries.com)
+- 👨‍💻 I have been managing communities since I was 14. Currently, I manage 3 communities totalling 1.5M+ members for Final Blueprint.
 
 #### Socials
 You can connect with me on any of the following sites -
