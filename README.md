@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Joash Mathew <sub><sup>(but I often go by the name <em>JustinOleski</em> online)</sup></sub></p>
+I'm Joash Mathew
 I'm an avid tech enthusiast who loves playing with all things tech. I love experimenting with different technologies and frameworks to try and create "cool" things <em>(at times - not with a lot of success)</em>
 I am originally from India 🇮🇳 but as of 2021, I am a first year Computing student at Queen's University, Canada. 🇨🇦
 
@@ -15,5 +15,4 @@ To wrap up this introduction, here's some random facts about me:
 #### Socials
 You can connect with me on any of the following sites -
 - 🕴️ [LinkedIn](https://linkedin.com/in/joashmathew)
-- 🐦 [Twitter](https://twitter.com/JustinOleskii)
-- 📧 hey@justinoleski.dev
+- 🐦 [Twitter](https://twitter.com/j0ashm)
