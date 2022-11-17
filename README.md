@@ -2,9 +2,7 @@
 
 I'm Joash Mathew
 I'm an avid tech enthusiast who loves playing with all things tech. I love experimenting with different technologies and frameworks to try and create "cool" things <em>(at times - not with a lot of success)</em>
-I am originally from India 🇮🇳 but as of 2021, I am a first year Computing student at Queen's University, Canada. 🇨🇦
-
-My latest pursuit for knowledge is in full-stack web development. I have been spending my days learning to work with a MERN stack.
+I'm a second year CompSci student at Queen's University, Canada specializing in Security.
 
 To wrap up this introduction, here's some random facts about me:
 - 🎮 I love playing open-world video games.
